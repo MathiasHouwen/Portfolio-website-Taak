@@ -1,0 +1,24 @@
+#footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: gray;
+  color: white;
+  text-align: center;
+  padding: 1vw;
+}
+
+.linkIcon{
+  color: white;
+  text-decoration: none;
+}
+
+.linkIcon:hover{
+  color: black;
+}
+
+body{
+  padding-bottom: 2vw;
+  font-family:"Cambria", "Cochin", Georgia, Times, 'Times New Roman', serif;
+}
