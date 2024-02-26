@@ -18,7 +18,33 @@
   color: black;
 }
 
+div{
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  box-shadow: 15 black;
+  margin: 1vh;
+  text-align: center;
+}
+
+table{
+  text-align: center;
+}
+
+
 body{
-  padding-bottom: 2vw;
+  padding-bottom: 2vw; /* Voor footer */
   font-family:"Cambria", "Cochin", Georgia, Times, 'Times New Roman', serif;
+}
+
+ul{
+  margin-top: 5px;
+  list-style: none;
+}
+
+h3{
+  padding: auto;
+  margin: 1vh;
 }
