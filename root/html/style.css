@@ -43,7 +43,6 @@ body{
   list-style: none;
 }
 
-
 #nav{
   list-style-type: none;
   margin: 0;
@@ -66,7 +65,7 @@ body{
   background-color: #04AA6D;
   color: white;
 }
-
+ 
 .navLink:hover {
   background-color: #555;
   color: white;
