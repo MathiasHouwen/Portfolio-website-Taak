@@ -18,17 +18,6 @@
   color: black;
 }
 
-div{
-  display: flex;
-  align-content: center;
-  flex-direction: column;
-  border: 1px solid lightgray;
-  border-radius: 5px;
-  box-shadow: 15 black;
-  margin: 1vh;
-  text-align: center;
-}
-
 table{
   text-align: center;
 }
@@ -74,4 +63,16 @@ body{
 h3{
   padding: auto;
   margin: 1vh;
+}
+
+.firstDiv{
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  box-shadow: 15 black;
+  margin-left: 14vw;
+  margin-bottom: 1vw;
+  text-align: center;
 }
